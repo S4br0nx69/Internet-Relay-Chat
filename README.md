@@ -30,3 +30,6 @@ npm install
 ```
 Accédez au dossier **Backend / src** et exécutez la même commande
 
+## Comment utiliser notre projet 🚀 ##
+
+### 1
