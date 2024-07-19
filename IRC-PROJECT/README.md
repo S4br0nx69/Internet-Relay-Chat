@@ -32,7 +32,7 @@ accédez au dossier **Backend / src** et exécutez la même commande
 
 ## Comment utiliser notre projet 🚀 ##
 
-**- Créer le fichier .env**
+**Créer le fichier .env :**
 
 À la racine de **Backend > src** crée le fichier .env et ajoutez les lignes suivantes :
 
@@ -40,7 +40,7 @@ accédez au dossier **Backend / src** et exécutez la même commande
 DB_URL=mongodb://localhost:27017/IRC_DATABASE
 ```
 
-**- Exécuter les serveurs :**
+**Exécuter les serveurs :**
 
 Se rendre dans le dossier adéquate depuis /Front-end :
 ```bash
