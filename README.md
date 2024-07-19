@@ -18,7 +18,7 @@ Assurez-vous d'avoir une version de node égale à 16 et npm égale à 7, vous p
 
 '''bash
 node -v
-'''
+ '''
 
 '''bash
 npm -v
