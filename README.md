@@ -16,19 +16,19 @@ Le but de ce projet est de créer un chat en ligne basé sur les anciens clients
 
 Assurez-vous d'avoir une version de node égale à 16 et npm égale à 7, vous pouvez la vérifier avec :
 
-'''bash
+```bash
 node -v
- '''
+``` 
 
-'''bash
+```bash
 npm -v
-'''
+``` 
 
 Ensuite, allez dans le dossier **Frontend / src** et exécutez la commande suivante :
 
-'''bash
+```bash
 npm install
-'''
+``` 
 
 Accédez au dossier **Backend / src** et exécutez la même commande
 
@@ -37,29 +37,29 @@ Accédez au dossier **Backend / src** et exécutez la même commande
 **- Créer le fichier .env**
 À la racine de **Backend > src** crée le fichier .env et ajoutez les lignes suivantes :
 
-'''bash
+```bash
 DB_URL=mongodb://localhost:27017/IRC_DATABASE
-'''
+```
 
 **- Exécuter les serveurs :**
 Se rendre dans le dossier adéquate depuis /Front-end :
 
-'''bash
+```bash
  cd src
-'''
+```
 
 Exécuter le serveur de développement du front-end avec la commande suivante :
 
-'''bash
+```bash
  npm run dev
-'''
+```
 
 Enfin éxécuter le serveur back-end/src avec la commande suivante :
 ⚠️ *bien se placer dans le répertoire* ⚠️
 
-'''bash
+```bash
  nodemon index.js
-'''
+```
 
 # Fonctionnalités 🏗️ #
 - Cryptage du mot de passe 🔒
