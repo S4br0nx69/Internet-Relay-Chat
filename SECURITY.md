@@ -1,21 +1,17 @@
-# Security Policy
+# Politique de Sécurité
 
-## Supported Versions
+## Versions Prises en Charge
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Cette section indique les versions de notre projet actuellement prises en charge avec des mises à jour de sécurité.
 
-| Version | Supported          |
+| Version | Prise en Charge    |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 16.0    | :node:             |
+| 7.0     | :npm:              |
 
-## Reporting a Vulnerability
+## Signaler une Vulnérabilité
 
-Use this section to tell people how to report a vulnerability.
+Si vous découvrez une vulnérabilité de sécurité dans ce projet, veuillez la signaler en envoyant un e-mail à sabr0nx@proton.me. Vous recevrez une réponse dans les 48 heures pour confirmer la réception de votre signalement.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Nous évaluons toutes les vulnérabilités signalées et travaillons à fournir une mise à jour dès que possible. Si la vulnérabilité est acceptée, vous recevrez des mises à jour régulières jusqu'à ce qu'elle soit résolue. Si elle est refusée, nous expliquerons pourquoi et ce que cela signifie pour la sécurité de notre projet.
+
