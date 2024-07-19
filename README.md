@@ -13,4 +13,13 @@ Le but de ce projet est de créer un chat en ligne basé sur les anciens clients
 
 ### Dependances
 
+Assurez-vous d'avoir une version de node égale à 16 et npm égale à 7, vous pouvez la vérifier avec :
+
+```bash
+node -v
+```
+
+```bash
+npm -v
+```
 
