@@ -6,8 +6,10 @@ Cette section indique les versions de notre projet actuellement prises en charge
 
 | Version | Prise en Charge    |
 | ------- | ------------------ |
-| 16.0    | :node:             |
-| 7.0     | :npm:              |
+| 1.1.x   | npm :white_check_mark: |
+| 1.0.x   | :x:                |
+| 0.9.x   | :x:                |
+| < 0.9   | :x:                |
 
 ## Signaler une Vulnérabilité
 
