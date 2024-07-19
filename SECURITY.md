@@ -6,8 +6,8 @@ Cette section indique les versions de notre projet actuellement prises en charge
 
 | Version | Prise en Charge    |
 | ------- | ------------------ |
-| 1.1.x   | npm :white_check_mark: |
-| 1.0.x   | :x:                |
+| 16.0    | npm :white_check_mark: |
+| 7.0     | node :white_check_mark:                 |
 | 0.9.x   | :x:                |
 | < 0.9   | :x:                |
 
