@@ -61,12 +61,12 @@ Enfin éxécuter le serveur back-end/src avec la commande suivante :
  nodemon index.js
 ```
 
-# Fonctionnalités 🏗️ #
+# Fonctionnalités 🏗️ 
 - Cryptage du mot de passe 🔒
 - Authentification JWT 🪙
 - Enregistrement de l'utilisateur 📃
 - Possibilité de changer son nom d'utilisateur 🔧
 - Possibilité de créer des canaux 🔧
 
-## Acteur du projet 💪 ##
+## Acteur du projet 👤
 - Sabri HAMMI
