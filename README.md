@@ -23,3 +23,10 @@ node -v
 npm -v
 ```
 
+Ensuite, allez dans le dossier **Frontend / src** et exécutez la commande suivante :
+
+```bash
+npm install
+```
+Accédez au dossier **Backend / src** et exécutez la même commande
+
