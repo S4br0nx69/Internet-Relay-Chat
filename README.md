@@ -30,7 +30,7 @@ npm install
 ```
 Accédez au dossier **Backend / src** et exécutez la même commande
 
-## Comment utiliser notre projet 🚀 ##
+## Comment utiliser le projet 🚀 ##
 
 **- Créer le fichier .env**
 À la racine de **Backend > src** crée le fichier .env et ajoutez les lignes suivantes :
