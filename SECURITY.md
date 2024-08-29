@@ -11,7 +11,7 @@ Cette section indique les versions de notre projet actuellement prises en charge
 
 ## Signaler une Vulnérabilité
 
-Si vous découvrez une vulnérabilité de sécurité dans ce projet, veuillez la signaler en envoyant un e-mail à sabr0nx@proton.me. Vous recevrez une réponse dans les 48 heures pour confirmer la réception de votre signalement.
+Si vous découvrez une vulnérabilité de sécurité dans ce projet, veuillez la signaler en envoyant un e-mail à sabr0nx@proton.me.
 
-Nous évaluons toutes les vulnérabilités signalées et travaillons à fournir une mise à jour dès que possible. Si la vulnérabilité est acceptée, vous recevrez des mises à jour régulières jusqu'à ce qu'elle soit résolue. Si elle est refusée, nous expliquerons pourquoi et ce que cela signifie pour la sécurité de notre projet.
+Nous évaluons toutes les vulnérabilités signalées et travaillons à fournir une mise à jour dès que possible. 
 
