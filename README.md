@@ -69,4 +69,4 @@ Enfin éxécuter le serveur back-end/src avec la commande suivante :
 - Possibilité de créer des canaux 🔧
 
 ## Acteur du projet 👤
-- Sabri HAMMI
+Sabri HAMMI
